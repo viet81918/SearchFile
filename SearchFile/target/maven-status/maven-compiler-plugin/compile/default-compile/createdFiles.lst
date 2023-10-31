@@ -1,0 +1,4 @@
+Model\FileContent.class
+com\mycompany\searchfile\SearchFile.class
+View\UserInterface.class
+Controller\Search.class
